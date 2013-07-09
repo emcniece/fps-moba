@@ -1,0 +1,17 @@
+[vpc crc file version 2]
+41f5a895 C:\Users\Max\Documents\Visual Studio 2010\Projects\Valkyrie\src\devtools\bin\vpc.exe
+_Nc_/vpcgame:hl2mp_
+ea87c744 server_hl2mp.vpc
+1a2cf65b ..\..\game\server\server_base.vpc
+413a9105 ..\..\vpc_scripts\source_dll_base.vpc
+2b31c21c ..\..\vpc_scripts\source_base.vpc
+459409f0 ..\..\vpc_scripts\source_dll_win32_base.vpc
+351c8228 ..\..\vpc_scripts\version.vpc
+846102f0 ..\..\vpc_scripts\loadaddress.vpc
+fdacd51c ..\..\vpc_scripts\source_dll_win32_debug.vpc
+5f05ebc3 ..\..\vpc_scripts\source_dll_win32_release.vpc
+d97bca71 ..\..\vpc_scripts\source_win32_base.vpc
+0c86995d ..\..\vpc_scripts\source_video_base.vpc
+3f58686e ..\..\vpc_scripts\protobuf_builder.vpc
+d14b774f ..\..\game\protobuf_include.vpc
+48b3bb32 ..\..\vpc_scripts\definitions\win32_2010.def

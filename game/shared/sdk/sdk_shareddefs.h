@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -43,7 +43,6 @@
 #if defined ( SDK_USE_SPRINTING ) && !defined( SDK_USE_STAMINA )
 #define SDK_USE_STAMINA
 #endif
-
 //
 // Can your players go prone?
 // define SDK_USE_PRONE
@@ -123,7 +122,7 @@ enum sdkteams_e
 
 #endif // SDK_USE_PLAYERCLASSES
 
-#define SDK_PLAYER_MODEL "models/player/blue_player.mdl"
+#define SDK_PLAYER_MODEL "models/player/american_rifleman.mdl"
 
 //Tony; We need to precache all possible player models that we're going to use
 extern const char *pszPossiblePlayerModels[];
